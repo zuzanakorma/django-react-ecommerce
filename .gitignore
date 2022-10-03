@@ -23,3 +23,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 backend/db.sqlite3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
